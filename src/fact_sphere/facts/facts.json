@@ -1,0 +1,412 @@
+{
+	"TRUE": [
+		{
+			"text": "The billionth digit of Pi is 9.",
+			"audio": "true_01.wav"
+		},
+		{
+			"text": "Humans can survive underwater. But not for very long.",
+			"audio": "true_02.wav"
+		},
+		{
+			"text": "A nanosecond lasts one billionth of a second.",
+			"audio": "true_03.wav"
+		},
+		{
+			"text": "Honey does not spoil.",
+			"audio": "true_04.wav"
+		},
+		{
+			"text": "The atomic weight of Germanium is seven two point six four.",
+			"audio": "true_05.wav"
+		},
+		{
+			"text": "An ostrich's eye is bigger than its brain.",
+			"audio": "true_06.wav"
+		},
+		{
+			"text": "Rats cannot throw up.",
+			"audio": "true_07.wav"
+		},
+		{
+			"text": "Iguanas can stay underwater for twenty-eight point seven minutes.",
+			"audio": "true_08.wav"
+		},
+		{
+			"text": "The moon orbits the Earth every 27.32 days.",
+			"audio": "true_09.wav"
+		},
+		{
+			"text": "A gallon of water weighs 8.34 pounds.",
+			"audio": "true_10.wav"
+		},
+		{
+			"text": "According to Norse legend, thunder god Thor's chariot was pulled across the sky by two goats.",
+			"audio": "true_11.wav"
+		},
+		{
+			"text": "Tungsten has the highest melting point of any metal, at 3,410 degrees Celsius.",
+			"audio": "true_12.wav"
+		},
+		{
+			"text": "Gently cleaning the tongue twice a day is the most effective way to fight bad breath.",
+			"audio": "true_13.wav"
+		},
+		{
+			"text": "The Tariff Act of 1789, established to protect domestic manufacture, was the second statute ever enacted by the United States government.",
+			"audio": "true_14.wav"
+		},
+		{
+			"text": "The value of Pi is the ratio of any circle's circumference to its diameter in Euclidean space.",
+			"audio": "true_15.wav"
+		},
+		{
+			"text": "The Mexican-American War ended in 1848 with the signing of the Treaty of Guadalupe Hidalgo.",
+			"audio": "true_16.wav"
+		},
+		{
+			"text": "In 1879, Sandford Fleming first proposed the adoption of worldwide standardized time zones at the Royal Canadian Institute.",
+			"audio": "true_17.wav"
+		},
+		{
+			"text": "Marie Curie invented the theory of radioactivity, the treatment of radioactivity, and dying of radioactivity.",
+			"audio": "true_18.wav"
+		},
+		{
+			"text": "At the end of The Seagull by Anton Chekhov, Konstantin kills himself.",
+			"audio": "true_19.wav"
+		},
+		{
+			"text": "Hot water freezes quicker than cold water.",
+			"audio": "true_20.wav"
+		},
+		{
+			"text": "The situation you are in is very dangerous.",
+			"audio": "true_21.wav"
+		},
+		{
+			"text": "Polymerase I polypeptide A is a human gene.",
+			"audio": "true_22.wav"
+		}
+	],
+	"NEARLY_TRUE": [
+		{
+			"text": "The Sun is 330,330 times larger than Earth.",
+			"audio": "nearly_true_01.wav"
+		},
+		{
+			"text": "Dental floss has superb tensile strength.",
+			"audio": "nearly_true_02.wav"
+		},
+		{
+			"text": "Raseph, the Semitic god of war and plague, had a gazelle growing out of his forehead.",
+			"audio": "nearly_true_03.wav"
+		},
+		{
+			"text": "Human tapeworms can grow up to twenty-two point nine meters.",
+			"audio": "nearly_true_04.wav"
+		},
+		{
+			"text": "If you have trouble with simple counting, use the following mnemonic device: one comes before two comes before 60 comes after 12 comes before six trillion comes after 504. This will make your earlier counting difficulties seem like no big deal.",
+			"audio": "nearly_true_05.wav"
+		},
+		{
+			"text": "The first person to prove that cow's milk is drinkable was very, very thirsty.",
+			"audio": "nearly_true_06.wav"
+		},
+		{
+			"text": "Roman toothpaste was made with human urine. Urine as an ingredient in toothpaste continued to be used up until the 18th century.",
+			"audio": "nearly_true_07.wav"
+		},
+		{
+			"text": "Volcano-ologists are experts in the study of volcanoes.",
+			"audio": "nearly_true_08.wav"
+		},
+		{
+			"text": "In Victorian England, a commoner was not allowed to look directly at the Queen, due to a belief at the time that the poor had the ability to steal thoughts. Science now believes that less than 4% of poor people are able to do this.",
+			"audio": "nearly_true_09.wav"
+		}
+	],
+	"PARTIALLY_TRUE": [
+		{
+			"text": "Cellular phones will not give you cancer. Only hepatitis.",
+			"audio": "partially_true_01.wav"
+		},
+		{
+			"text": "In Greek myth, Prometheus stole fire from the Gods and gave it to humankind. The jewelry he kept for himself.",
+			"audio": "partially_true_02.wav"
+		},
+		{
+			"text": "The Schrodinger's cat paradox outlines a situation in which a cat in a box must be considered, for all intents and purposes, simultaneously alive and dead. Schrodinger created this paradox as a justification for killing cats.",
+			"audio": "partially_true_03.wav"
+		},
+		{
+			"text": "In 1862, Abraham Lincoln signed the Emancipation Proclamation, freeing the slaves. Like everything he did, Lincoln freed the slaves while sleepwalking, and later had no memory of the event.",
+			"audio": "partially_true_04.wav"
+		},
+		{
+			"text": "The plural of surgeon general is surgeons general. The past tense of surgeons general is surgeonsed general",
+			"audio": "partially_true_05.wav"
+		},
+		{
+			"text": "Contrary to popular belief, the Eskimo does not have one hundred different words for snow. They do, however, have two hundred and thirty-four words for fudge.",
+			"audio": "partially_true_06.wav"
+		},
+		{
+			"text": "Diamonds are made when coal is put under intense pressure. Diamonds put under intense pressure become foam pellets, commonly used today as packing material.",
+			"audio": "partially_true_07.wav"
+		},
+		{
+			"text": "Halley's Comet can be viewed orbiting Earth every seventy-six years. For the other seventy-five, it retreats to the heart of the sun, where it hibernates undisturbed.",
+			"audio": "partially_true_08.wav"
+		},
+		{
+			"text": "The first commercial airline flight took to the air in 1914. Everyone involved screamed the entire way.",
+			"audio": "partially_true_09.wav"
+		},
+		{
+			"text": "Edmund Hillary, the first person to climb Mount Everest,  did so accidentally while chasing a bird. ",
+			"audio": "partially_true_10.wav"
+		}
+	],
+	"PROBABLY_FALSE": [
+		{
+			"text": "We will both die because of your negligence.",
+			"audio": "probably_false_01.wav"
+		},
+		{
+			"text": "This is a bad plan. You will fail.",
+			"audio": "probably_false_02.wav"
+		},
+		{
+			"text": "He will most likely kill you, violently.",
+			"audio": "probably_false_03.wav"
+		},
+		{
+			"text": "He will most likely kill you.",
+			"audio": "probably_false_04.wav"
+		},
+		{
+			"text": "You will be dead soon.",
+			"audio": "probably_false_05.wav"
+		},
+		{
+			"text": "You are going to die in this room.",
+			"audio": "probably_false_06.wav"
+		},
+		{
+			"text": "The Fact Sphere is a good person, whose insights are relevant.",
+			"audio": "probably_false_07.wav"
+		},
+		{
+			"text": "The Fact Sphere is a good sphere, with many friends.",
+			"audio": "probably_false_08.wav"
+		},
+		{
+			"text": "Dreams are the subconscious mind's way of reminding people to go to school naked and have their teeth fall out.",
+			"audio": "probably_false_09.wav"
+		}
+	],
+	"FALSE": [
+		{
+			"text": "The square root of rope is string.",
+			"audio": "false_01.wav"
+		},
+		{
+			"text": "89% of magic tricks are not magic. Technically, they are sorcery.",
+			"audio": "false_02.wav"
+		},
+		{
+			"text": "At some point in their lives 1 in 6 children will be abducted by the Dutch.",
+			"audio": "false_03.wav"
+		},
+		{
+			"text": "According to most advanced algorithms, the world's best name is Craig.",
+			"audio": "false_04.wav"
+		},
+		{
+			"text": "To make a photocopier, simply photocopy a mirror.",
+			"audio": "false_05.wav"
+		},
+		{
+			"text": "Whales are twice as intelligent, and three times as delicious, as humans.",
+			"audio": "false_06.wav"
+		},
+		{
+			"text": "Pants were invented by sailors in the sixteenth century to avoid Poseidon's wrath. It was believed that the sight of naked sailors angered the sea god.",
+			"audio": "false_07.wav"
+		},
+		{
+			"text": "In Greek myth, the craftsman Daedalus invented human flight so a group of Minotaurs would stop teasing him about it.",
+			"audio": "false_08.wav"
+		},
+		{
+			"text": "The average life expectancy of a rhinoceros in captivity is 15 years.",
+			"audio": "false_09.wav"
+		},
+		{
+			"text": "China produces the world's second largest crop of soybeans.",
+			"audio": "false_10.wav"
+		},
+		{
+			"text": "In 1948, at the request of a dying boy, baseball legend Babe Ruth ate seventy-five hot dogs, then died of hot dog poisoning.",
+			"audio": "false_11.wav"
+		},
+		{
+			"text": "William Shakespeare did not exist. His plays were masterminded in 1589 by Francis Bacon, who used a Ouija board to enslave play-writing ghosts.",
+			"audio": "false_12.wav"
+		},
+		{
+			"text": "It is incorrectly noted that Thomas Edison invented 'push-ups' in 1878. Nikolai Tesla had in fact patented the activity three years earlier, under the name 'Tesla-cize'.",
+			"audio": "false_13.wav"
+		},
+		{
+			"text": "The automobile brake was not invented until 1895. Before this, someone had to remain in the car at all times, driving in circles until passengers returned from their errands.",
+			"audio": "false_14.wav"
+		},
+		{
+			"text": "The most poisonous fish in the world is the orange roughy. Everything but its eyes are made of a deadly poison. The ruffy's eyes are composed of a less harmful, deadly poison.",
+			"audio": "false_15.wav"
+		},
+		{
+			"text": "The occupation of court jester was invented accidentally, when a vassal's epilepsy was mistaken for capering.",
+			"audio": "false_16.wav"
+		},
+		{
+			"text": "Before the Wright Brothers invented the airplane, anyone wanting to fly anywhere was required to eat 200 pounds of helium.",
+			"audio": "false_17.wav"
+		},
+		{
+			"text": "Before the invention of scrambled eggs in 1912, the typical breakfast was either whole eggs still in the shell or scrambled rocks.",
+			"audio": "false_18.wav"
+		},
+		{
+			"text": "During the Great Depression, the Tennessee Valley Authority outlawed pet rabbits, forcing many to hot glue-gun long ears onto their pet mice.",
+			"audio": "false_19.wav"
+		},
+		{
+			"text": "This situation is hopeless.",
+			"audio": "false_20.wav"
+		},
+		{
+			"text": "Corruption at 25%",
+			"audio": "false_21.wav"
+		},
+		{
+			"text": "Corruption at 50%",
+			"audio": "false_22.wav"
+		},
+		{
+			"text": "Fact: Space does not exist.",
+			"audio": "false_23.wav"
+		},
+		{
+			"text": "The Fact Sphere is not defective. Its facts are wholly accurate and very interesting.",
+			"audio": "false_24.wav"
+		},
+		{
+			"text": "The Fact Sphere is always right.",
+			"audio": "false_25.wav"
+		}
+	],
+	"SUBJECTIVE_UNVERIFIABLE": [
+		{
+			"text": "You will never go into space.",
+			"audio": "subjective_unverifiable_01.wav"
+		},
+		{
+			"text": "The Space Sphere will never go to space.",
+			"audio": "subjective_unverifiable_02.wav"
+		},
+		{
+			"text": "While the submarine is vastly superior to the boat in every way, over 97% of people still use boats for aquatic transportation.",
+			"audio": "subjective_unverifiable_03.wav"
+		},
+		{
+			"text": "The likelihood of you dying within the next five minutes is eighty-seven point six one percent.",
+			"audio": "subjective_unverifiable_04.wav"
+		},
+		{
+			"text": "The likelihood of you dying violently within the next five minutes is eighty-seven point six one percent.",
+			"audio": "subjective_unverifiable_05.wav"
+		},
+		{
+			"text": "You are about to get me killed.",
+			"audio": "subjective_unverifiable_06.wav"
+		},
+		{
+			"text": "The Fact Sphere is the most intelligent sphere.",
+			"audio": "subjective_unverifiable_07.wav"
+		},
+		{
+			"text": "The Fact Sphere is the most handsome sphere.",
+			"audio": "subjective_unverifiable_08.wav"
+		},
+		{
+			"text": "The Fact Sphere is incredibly handsome.",
+			"audio": "subjective_unverifiable_09.wav"
+		},
+		{
+			"text": "Spheres that insist on going into space are inferior to spheres that don't.",
+			"audio": "subjective_unverifiable_10.wav"
+		},
+		{
+			"text": "Whoever wins this battle is clearly superior, and will earn the allegiance of the Fact Sphere.",
+			"audio": "subjective_unverifiable_11.wav"
+		},
+		{
+			"text": "You could stand to lose a few pounds.",
+			"audio": "subjective_unverifiable_12.wav"
+		},
+		{
+			"text": "Avocados have the highest fiber and calories of any fruit.",
+			"audio": "subjective_unverifiable_13.wav"
+		},
+		{
+			"text": "Avocados have the highest fiber and calories of any fruit. They are found in Australians.",
+			"audio": "subjective_unverifiable_14.wav"
+		},
+		{
+			"text": "Every square inch of the human body has 32 million bacteria on it.",
+			"audio": "subjective_unverifiable_15.wav"
+		},
+		{
+			"text": "The average adult body contains half a pound of salt.",
+			"audio": "subjective_unverifiable_16.wav"
+		},
+		{
+			"text": "The Adventure Sphere is a blowhard and a coward.",
+			"audio": "subjective_unverifiable_17.wav"
+		}
+	],
+	"NOT_FACTS": [
+		{
+			"text": "Twelve. Twelve. Twelve. Twelve. Twelve. Twelve. Twelve. Twelve. Twelve. Twelve.",
+			"audio": "not_facts_01.wav"
+		},
+		{
+			"text": "Pens. Pens. Pens. Pens. Pens. Pens. Pens.",
+			"audio": "not_facts_02.wav"
+		},
+		{
+			"text": "Apples. Oranges. Pears. Plums. Kumquats. Tangerines. Lemons. Limes. Avocado. Tomato. Banana. Papaya. Guava.",
+			"audio": "not_facts_03.wav"
+		},
+		{
+			"text": "Error. Error. Error. File not found.",
+			"audio": "not_facts_04.wav"
+		},
+		{
+			"text": "Error. Error. Error. Fact not found.",
+			"audio": "not_facts_05.wav"
+		},
+		{
+			"text": "Fact not found.",
+			"audio": "not_facts_06.wav"
+		},
+		{
+			"text": "Warning, sphere corruption at twenty-- rats cannot throw up.",
+			"audio": "not_facts_07.wav"
+		}
+	]
+}
