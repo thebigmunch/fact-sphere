@@ -1,4 +1,4 @@
-# fact-sphere-cli
+# fact-sphere
 
 [fact-sphere](https://github.com/thebigmunch/fact-sphere) is a library for Portal 2 Fact Sphere facts
 born from an off-handed comment during a conversation on IRC:
@@ -14,8 +14,9 @@ Credit to [Portal Wiki](https://theportalwiki.com/wiki/List_of_Fact_Sphere_facts
 
 ## Usage
 
-See the [docs](https://fact-sphere.readthedocs.io).
-
+Until pip is updated to support PEP 517, the [docs](https://fact-sphere.readthedocs.io)
+won't build properly on Read The Docs.
+Reading the code in ``api.py`` should suffice until an alternative is found.
 
 ## Appreciation
 
