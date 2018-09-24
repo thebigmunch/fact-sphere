@@ -24,5 +24,6 @@ flake8-import-order-tbm = { version = "^1.0.0", optional = true }
 poetry = { version = "^0.9", optional = true }
 
 [tool.poetry.extras]
-dev = [ "flake8", "flake8-builtins", "flake8-import-order", "flake8-import-order-tbm", "poetry" ]
+dev = [ "flake8", "flake8-builtins", "flake8-import-order", "flake8-import-order-tbm", "poetry", "sphinx" ]
+docs = [ "sphinx" ]
 lint = [ "flake8", "flake8-builtins", "flake8-import-order", "flake8-import-order-tbm" ]
