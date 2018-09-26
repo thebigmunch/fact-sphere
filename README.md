@@ -14,9 +14,8 @@ Credit to [Portal Wiki](https://theportalwiki.com/wiki/List_of_Fact_Sphere_facts
 
 ## Usage
 
-Until pip is updated to support PEP 517, the [docs](https://fact-sphere.readthedocs.io)
-won't build properly on Read The Docs.
-Reading the code in ``api.py`` should suffice until an alternative is found.
+See the [docs](https://fact-sphere.readthedocs.io).
+
 
 ## Appreciation
 
