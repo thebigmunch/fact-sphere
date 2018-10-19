@@ -7,7 +7,7 @@ project_dir = os.path.abspath(os.pardir)
 sys.path.insert(0, os.path.join(project_dir, 'src'))
 
 about = {}
-with open(os.path.join(project_dir, 'src', 'fact_sphere', "__about__.py")) as f:
+with open(os.path.join(project_dir, 'src', 'fact_sphere', '__about__.py')) as f:
 	exec(f.read(), about)
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -19,6 +19,7 @@ extensions = [
 	'sphinx.ext.ifconfig',
 	'sphinx.ext.intersphinx',
 	'sphinx.ext.napoleon',
+	'sphinx.ext.todo',
 	'sphinx.ext.viewcode'
 ]
 
