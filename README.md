@@ -29,7 +29,7 @@ Get your own thanks inbox at [SayThanks.io](https://saythanks.io/).
 
 #### Contribute
 
-[Contribute](https://github.com/thebigmunch/fact-sphere/blob/master/CONTRIBUTING.md) by submitting bug reports, feature requests, or code.
+[Contribute](https://github.com/thebigmunch/fact-sphere/blob/master/.github/CONTRIBUTING.md) by submitting bug reports, feature requests, or code.
 
 #### Help Others/Stay Informed
 
