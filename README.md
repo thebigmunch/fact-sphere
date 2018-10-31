@@ -14,7 +14,8 @@ Credit to [Portal Wiki](https://theportalwiki.com/wiki/List_of_Fact_Sphere_facts
 
 ## Usage
 
-See the [docs](https://fact-sphere.readthedocs.io).
+For the release version, see the [stable docs](https://fact-sphere.readthedocs.io/en/stable/).  
+For the development version, see the [latest docs](https://fact-sphere.readthedocs.io/en/latest/).
 
 
 ## Appreciation
