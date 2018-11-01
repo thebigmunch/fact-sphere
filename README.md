@@ -1,5 +1,7 @@
 # fact-sphere
 
+[![Read the Docs](https://img.shields.io/readthedocs/fact-sphere.svg)](https://fact-sphere.readthedocs.io)
+
 [fact-sphere](https://github.com/thebigmunch/fact-sphere) is a library for Portal 2 Fact Sphere facts
 born from an off-handed comment during a conversation on IRC:
 ``<%Ashmandias> then slap up a random fact from Portal 2's Fact Sphere``.
