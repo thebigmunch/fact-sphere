@@ -1,7 +1,7 @@
 # fact-sphere
 
-[![Read the Docs - Stable](https://img.shields.io/readthedocs/fact-sphere/stable.svg?label=stable%20docs)](https://fact-sphere.readthedocs.io/en/stable/)
-[![Read the Docs - Latest](https://img.shields.io/readthedocs/fact-sphere/latest.svg?label=latest%20docs)](https://fact-sphere.readthedocs.io/en/latest/)
+[![Read the Docs - Stable](https://img.shields.io/readthedocs/fact-sphere/stable.svg?label=Read%20the%20Docs%20%28Stable%29)](https://fact-sphere.readthedocs.io/en/stable/)
+[![Read the Docs - Latest](https://img.shields.io/readthedocs/fact-sphere/latest.svg?label=Read%20the%20Docs%20%28Latest%29)](https://fact-sphere.readthedocs.io/en/latest/)
 
 [fact-sphere](https://github.com/thebigmunch/fact-sphere) is a library for Portal 2 Fact Sphere facts
 born from an off-handed comment during a conversation on IRC:
