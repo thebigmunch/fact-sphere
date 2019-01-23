@@ -1,7 +1,9 @@
 # fact-sphere
 
-[![Read the Docs - Stable](https://img.shields.io/readthedocs/fact-sphere/stable.svg?label=Read%20the%20Docs%20%28Stable%29)](https://fact-sphere.readthedocs.io/en/stable/)
-[![Read the Docs - Latest](https://img.shields.io/readthedocs/fact-sphere/latest.svg?label=Read%20the%20Docs%20%28Latest%29)](https://fact-sphere.readthedocs.io/en/latest/)
+[![PyPI](https://img.shields.io/pypi/v/fact-sphere.svg?label=PyPI)](https://pypi.org/project/fact-sphere/)
+![](https://img.shields.io/badge/Python-3.6%2B-blue.svg)  
+[![Docs - Stable](https://img.shields.io/readthedocs/fact-sphere/stable.svg?label=Docs%20%28Stable%29)](https://fact-sphere.readthedocs.io/en/stable/)
+[![Docs - Latest](https://img.shields.io/readthedocs/fact-sphere/latest.svg?label=Docs%20%28Latest%29)](https://fact-sphere.readthedocs.io/en/latest/)
 
 [fact-sphere](https://github.com/thebigmunch/fact-sphere) is a library for Portal 2 Fact Sphere facts
 born from an off-handed comment during a conversation on IRC:
