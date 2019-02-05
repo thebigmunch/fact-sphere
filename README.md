@@ -14,7 +14,7 @@ Credit to [Portal Wiki](https://theportalwiki.com/wiki/List_of_Fact_Sphere_facts
 
 ## Installation
 
-``pip install fact-sphere``
+``pip install -U fact-sphere``
 
 
 ## Usage
