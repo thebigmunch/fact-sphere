@@ -23,6 +23,7 @@ attrs = ">=18.2,<19.2"
 
 flake8 = { version = "^3.5", optional = true }
 flake8-builtins = { version = "^1.0", optional = true }
+flake8-comprehensions = { version = "^2.0", optional = true }
 flake8-import-order = { version = "^0.18", optional = true }
 flake8-import-order-tbm = { version = "^1.0.0", optional = true }
 sphinx = { version= "^1.8", optional = true}
@@ -31,6 +32,7 @@ sphinx = { version= "^1.8", optional = true}
 dev = [
 	"flake8",
 	"flake8-builtins",
+	"flake8-comprehensions",
 	"flake8-import-order",
 	"flake8-import-order-tbm",
 	"sphinx"
@@ -39,6 +41,7 @@ docs = [ "sphinx" ]
 lint = [
 	"flake8",
 	"flake8-builtins",
+	"flake8-comprehensions",
 	"flake8-import-order",
 	"flake8-import-order-tbm"
 ]
