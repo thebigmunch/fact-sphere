@@ -89,7 +89,12 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+	'github_user': 'thebigmunch',
+	'github_repo': 'fact-sphere',
+	'github_type': 'star',
+	'show_powered_by': False
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -101,3 +106,13 @@ html_show_sourcelink = False
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 html_show_sphinx = False
+
+html_sidebars = {
+	'**': [
+		'about.html',
+		'localtoc.html',
+		'relations.html',
+		'searchbox.html',
+		'donate.html',
+	]
+}
