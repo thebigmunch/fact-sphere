@@ -31,7 +31,7 @@ def fact(fact_type=None):
 		Fact: A fact object.
 	"""
 
-	if fact_type in FactType:
+	if fact_type and fact_type in FactType:
 		return random.choice(TYPE_FACTS[fact_type])
 
 	return random.choice(FACTS)
