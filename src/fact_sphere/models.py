@@ -1,6 +1,10 @@
 __all__ = ['Audio', 'Fact']
 
+from pathlib import Path
+
 from attr import attrib, attrs
+
+from .types import FactType
 
 
 @attrs
@@ -11,7 +15,7 @@ class Audio:
 		filepath (str): The filepath to the fact audio.
 	"""
 
-	filepath = attrib()
+	filepath = attrib(converter=lambda f: Path(f).resolve())
 
 	def read(self):
 		"""Get the binary data from the fact audio file."""
@@ -31,5 +35,9 @@ class Fact:
 	"""
 
 	text = attrib()
-	audio = attrib(converter=Audio)
-	type = attrib()  # noqa
+	audio = attrib(
+		converter=lambda a: Audio(a) if not isinstance(a, Audio) else a
+	)
+	type = attrib(  # noqa
+		converter=lambda t: FactType[t] if not isinstance(t, FactType) else t
+	)
