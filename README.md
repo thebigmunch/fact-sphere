@@ -2,7 +2,8 @@
 
 [![PyPI](https://img.shields.io/pypi/v/fact-sphere.svg?label=PyPI)](https://pypi.org/project/fact-sphere/)
 ![](https://img.shields.io/badge/Python-3.6%2B-blue.svg)  
-[![GitHub CI](https://img.shields.io/github/workflow/status/thebigmunch/fact-sphere/CI?label=GitHub%20CI)](https://github.com/thebigmunch/fact-sphere/actions?query=workflow%3ACI)  
+[![GitHub CI](https://img.shields.io/github/workflow/status/thebigmunch/fact-sphere/CI?label=GitHub%20CI)](https://github.com/thebigmunch/fact-sphere/actions?query=workflow%3ACI)
+[![Codecov](https://img.shields.io/codecov/c/github/thebigmunch/fact-sphere.svg?label=Codecov)](https://codecov.io/gh/thebigmunch/fact-sphere)  
 [![Docs - Stable](https://img.shields.io/readthedocs/fact-sphere/stable.svg?label=Docs%20%28Stable%29)](https://fact-sphere.readthedocs.io/en/stable/)
 [![Docs - Latest](https://img.shields.io/readthedocs/fact-sphere/latest.svg?label=Docs%20%28Latest%29)](https://fact-sphere.readthedocs.io/en/latest/)
 

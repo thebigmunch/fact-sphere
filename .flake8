@@ -2,6 +2,8 @@
 ignore = E117, W191, F403, F405
 max-line-length = 150
 import-order-style = tbm
+application-import-names =
+	fact_sphere
 exclude =
 	__pycache__
 	.nox
