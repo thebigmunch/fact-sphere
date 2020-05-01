@@ -8,6 +8,11 @@ This project adheres to [Semantic Versioning](https://semver.org).
 
 [Commits](https://github.com/thebigmunch/fact-sphere/compare/1.0.0...master)
 
+
+## [1.0.1](https://github.com/thebigmunch/fact-sphere/releases/tag/1.0.1) (2020-05-01)
+
+[Commits](https://github.com/thebigmunch/fact-sphere/commit/a98990ccb3339a4b2f4c32ccfd3b91db6eacb7ee)
+
 ### Fixed
 
 * Fact type check in ``fact``.
