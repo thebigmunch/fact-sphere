@@ -4,9 +4,9 @@ Notable changes to this project based on the [Keep a Changelog](https://keepacha
 This project adheres to [Semantic Versioning](https://semver.org).
 
 
-## [Unreleased](https://github.com/thebigmunch/fact-sphere/tree/master)
+## [Unreleased](https://github.com/thebigmunch/fact-sphere/tree/main)
 
-[Commits](https://github.com/thebigmunch/fact-sphere/compare/1.0.1...master)
+[Commits](https://github.com/thebigmunch/fact-sphere/compare/1.0.1...main)
 
 
 ## [1.0.1](https://github.com/thebigmunch/fact-sphere/releases/tag/1.0.1) (2020-05-01)
