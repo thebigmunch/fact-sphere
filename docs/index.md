@@ -1,24 +1,22 @@
-===========
-fact-sphere
-===========
+# fact-sphere
 
 fact-sphere is a Python library for Portal 2 Fact Sphere facts.
 
 
-API Reference
-=============
+## API Reference
 
-Core
-----
+### Core
 
+```{eval-rst}
 .. autofunction:: fact_sphere.audio
 .. autofunction:: fact_sphere.fact
 .. autofunction:: fact_sphere.text
+```
 
 
-Helpers
--------
+### Helpers
 
+```{eval-rst}
 .. autoclass:: fact_sphere.FactType
 	:members:
 	:undoc-members:
@@ -28,3 +26,4 @@ Helpers
 
 .. autoclass:: fact_sphere.models.Fact
 	:members:
+```
